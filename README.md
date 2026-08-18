@@ -1,9 +1,9 @@
-# Agent × Harness 开发日记
+# Agent × Harness Development Diary
 
-这里记录与 Agent、Harness 和 AI 协作开发有关的真实问题、失败、转折与方法。
+This repository collects public essays about Agent, Harness, and AI-assisted engineering: concrete problems, failed interpretations, turning points, and methods that survived contact with real work.
 
-文章不会把工程过程写成提交记录，也不会把暂时有效的经验包装成普遍规律。每一篇尽量从一个具体冲突出发，说明原来的选择为什么合理、后来哪里出现了代价，以及我们现在怎样做。
+The essays are not commit diaries or product promotion. Each one begins with a concrete conflict, gives the earlier choice its fair case, explains the cost that appeared later, and ends with the working rule we use now.
 
-## 文章
+## Essays
 
-- 2026-08-18 · [让 Agent 忘掉一些东西，才能重新看见目标](entries/2026-08-18-agent-goal-recalibration.md)
+- 2026-08-18 · [Let the Agent Forget Some Things So It Can See the Goal Again](entries/2026-08-18-agent-goal-recalibration.md)
