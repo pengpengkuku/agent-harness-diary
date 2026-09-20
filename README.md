@@ -12,3 +12,4 @@ The essays are not commit diaries or product promotion. Each one begins with a c
 
 - 2026-08-18 · [Let the Agent Forget Some Things So It Can See the Goal Again](entries/2026-08-18-agent-goal-recalibration.md)
 - 2026-08-27 · [Compiling One Task into the Next Agent's Rules](entries/2026-08-27-compiling-task-feedback-into-agent-rules.md)
+- 2026-09-19 · [Compiling Business Experience into Code an Agent Can Use](entries/2026-09-19-compiling-business-experience-into-agent-code.md)
