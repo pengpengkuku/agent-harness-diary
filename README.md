@@ -14,4 +14,5 @@ The essays are not commit diaries or product promotion. Each one begins with a c
 - 2026-08-27 · [Compiling One Task into the Next Agent's Rules](entries/2026-08-27-compiling-task-feedback-into-agent-rules.md)
 - 2026-09-19 · [Compiling Business Experience into Code an Agent Can Use](entries/2026-09-19-compiling-business-experience-into-agent-code.md)
 - 2026-11-03 · [An Agent Run Ends. The Work Does Not.](entries/2026-11-03-an-agent-run-ends-the-work-does-not.md)
+- 2026-11-25 · [How to Tell Whether a Test Can Go](entries/2026-11-25-how-to-tell-whether-a-test-can-go.md)
 
